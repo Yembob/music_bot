@@ -29,3 +29,4 @@ Lastly you'll need to deploy your bot. You can follow my other tutorial on deplo
 Remember that you need to have your token setup in your environment variables as well and it should be under TOKEN. On windows you can do this by running 
 `SET TOKEN=<you_token_here>`
 
+# y-bot
